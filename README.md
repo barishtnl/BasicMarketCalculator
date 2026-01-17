@@ -18,21 +18,4 @@ Colored UI: Utilizes ConsoleColor to highlight error messages in red and summari
 
 Precise Formatting: All currency values are formatted to 2 decimal places using String Interpolation (:F2).
 
-🛠 Technical Implementation
-Language: C# (.NET)
 
-Logic: while and for loops for flow control.
-
-Data Structure: double[] arrays to store product prices.
-
-Best Practices: Input validation, resetting console colors, and clean code principles.
-
-📸 Preview
-(Feel free to add a screenshot of your console output here!)
-
-💻 How to Run
-Clone or download this repository.
-
-Open the project in Visual Studio or any C# compatible IDE.
-
-Press F5 or click Start to run the application.
